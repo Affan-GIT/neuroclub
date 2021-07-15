@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d34dd28c.chunk.css",
+    "main.js": "/static/js/main.f72d5256.chunk.js",
+    "main.js.map": "/static/js/main.f72d5256.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9db2a3bb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9db2a3bb.js.map",
+    "static/js/2.800ee2d2.chunk.js": "/static/js/2.800ee2d2.chunk.js",
+    "static/js/2.800ee2d2.chunk.js.map": "/static/js/2.800ee2d2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d34dd28c.chunk.css.map": "/static/css/main.d34dd28c.chunk.css.map",
+    "static/js/2.800ee2d2.chunk.js.LICENSE.txt": "/static/js/2.800ee2d2.chunk.js.LICENSE.txt",
+    "static/media/img1.ac6b53f9.gif": "/static/media/img1.ac6b53f9.gif",
+    "static/media/img2.f45ed366.gif": "/static/media/img2.f45ed366.gif",
+    "static/media/oak__logo.2a72823d.png": "/static/media/oak__logo.2a72823d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9db2a3bb.js",
+    "static/js/2.800ee2d2.chunk.js",
+    "static/css/main.d34dd28c.chunk.css",
+    "static/js/main.f72d5256.chunk.js"
+  ]
+}
